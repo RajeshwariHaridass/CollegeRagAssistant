@@ -1,0 +1,28 @@
+Library Rules and Guidelines
+
+Borrowing Rules:
+- Students can borrow up to 3 books at a time
+- Loan period: 14 days
+- Renewal: Once for 7 days
+
+Fines:
+- Overdue books: Rs. 2 per day per book
+- Lost books: Cost of book + Rs. 100 processing fee
+- Damaged books: Rs. 50 repair fee
+
+Lab Manuals:
+- Available for all engineering labs
+- Must be returned after lab session
+- No borrowing allowed for manuals
+
+Project Guidelines:
+- Reference books available in project section
+- Group study rooms available on reservation
+- Digital resources accessible via library portal
+
+FAQs:
+Q: How to reserve a book?
+A: Use the online reservation system on library website.
+
+Q: Can I borrow books during holidays?
+A: Yes, but return before semester starts.

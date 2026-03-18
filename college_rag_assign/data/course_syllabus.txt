@@ -1,0 +1,23 @@
+Course Syllabus: Data Structures
+
+Prerequisites:
+- Basic Programming (C/C++/Python)
+- Discrete Mathematics
+
+Topics:
+Unit 1: Arrays and Linked Lists
+Unit 2: Stacks and Queues
+Unit 3: Trees and Graphs
+Unit 4: Sorting and Searching Algorithms
+
+Course Syllabus: Operating Systems
+
+Prerequisites:
+- Computer Organization
+- Data Structures
+
+Topics:
+Unit 1: Introduction to OS
+Unit 2: Process Management
+Unit 3: Memory Management
+Unit 4: File Systems
